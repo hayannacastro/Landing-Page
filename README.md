@@ -1,10 +1,10 @@
-## Landing Page do Professor Eduardo Melo - IFCE Campus Maranguape
+## Landing Page do Professor Eduardo Melo - IFCE Campus Maranguape 🌄
 
-## Sobre o Projeto
+## Sobre o Projeto 💻
 
-Este projeto tem como objetivo criar uma landing page para promover o professor João Silva, do IFCE campus Maranguape. A página foi desenvolvida aplicando todos os conceitos de HTML e CSS aprendidos durante o curso, com foco em uma estrutura semântica, design responsivo e visual profissional.
+Este projeto tem como objetivo criar uma landing page para promover o professor Eduardo Melo, do IFCE campus Maranguape. A página foi desenvolvida aplicando todos os conceitos de HTML e CSS aprendidos durante o curso, com foco em uma estrutura semântica, design responsivo e visual profissional.
 
-## Requisitos Técnicos Aplicados
+## Requisitos Técnicos Aplicados 📌
 
 - **HTML Semântico**: Uso de `<header>`, `<main>`, `<section>` e `<footer>` para organização do conteúdo.
 - **Seções principais**: Biografia do professor, hobbies, disciplinas com cards clicáveis e outras informações relevantes.
@@ -17,13 +17,12 @@ Este projeto tem como objetivo criar uma landing page para promover o professor 
   - Paleta de cores profissional e tipografia adequada.
   - Efeitos visuais como hover e box-shadow para melhor interação.
 
-## Desenvolvido por
+## Desenvolvido por:
 
-- Aluna 1: Maria Santos  
-- Aluna 2: Ana Oliveira  
-- Aluna 3: Beatriz Costa  
+- Aluna: Hayanna Yohara
+- Aluna: Phamela Julia
 
-## Disciplina
+## Disciplina 📚
 
 Desenvolvimento Web Front-End  
 IFCE Campus Maranguape
