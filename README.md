@@ -24,5 +24,5 @@ Este projeto tem como objetivo criar uma landing page para promover o professor 
 
 ## Disciplina 📚
 
-  Desenvolvimento Web 
+Desenvolvimento Web 
 IFCE Campus Maranguape
